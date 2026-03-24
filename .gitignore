@@ -1,0 +1,17 @@
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled libraries
+*.so
+*.dll
+*.a
+
+# Ignore build folders
+build/
+bin/
